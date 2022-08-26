@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+1 Memory Barrier	memory_barrier.md	/^### 1 Memory Barrier$/;"	S	language:Markdown
+1.2 Data Memory Barrier (DMB)	memory_barrier.md	/^#### 1.2 Data Memory Barrier (DMB)$/;"	t	language:Markdown
+1.3 Data Synchronization Barrier (DSB)	memory_barrier.md	/^#### 1.3 Data Synchronization Barrier (DSB)$/;"	t	language:Markdown
+1.4 指令参数	memory_barrier.md	/^#### 1.4 指令参数$/;"	t	language:Markdown
+1.QtWidgets	pyqt.md	/^#### 1.QtWidgets$/;"	t	language:Markdown
+1.spinlock 与 tickets_spinlock	ticketlock_spinlock.md	/^### 1.spinlock 与 tickets_spinlock$/;"	S	language:Markdown
+2. barrier.h	memory_barrier.md	/^### 2. barrier.h$/;"	S	language:Markdown
+2.1 spinlock_types.h	ticketlock_spinlock.md	/^#### 2.1 spinlock_types.h$/;"	t	language:Markdown
+2.2 spinlock.h	ticketlock_spinlock.md	/^#### 2.2 spinlock.h$/;"	t	language:Markdown
+2.Qwidget类	pyqt.md	/^#### 2.Qwidget类$/;"	t	language:Markdown
+2.源码分析	ticketlock_spinlock.md	/^### 2.源码分析$/;"	S	language:Markdown
+3.QApplication	pyqt.md	/^#### 3.QApplication$/;"	t	language:Markdown
+PyQt入门	pyqt.md	/^### PyQt入门$/;"	S	language:Markdown
+error "please don't include this file directly"	ticketlock_spinlock.md	/^# error "please don't include this file directly"$/;"	c	language:Markdown
+ticketlock代码分析	ticketlock_spinlock.md	/^## ticketlock代码分析$/;"	s	language:Markdown
+window.autoDetectColorScheme	.vscode/settings.json	/^    "window.autoDetectColorScheme": true,$/;"	b	language:JSON
+workbench.colorTheme	.vscode/settings.json	/^    "workbench.colorTheme": "Visual Studio Dark"$/;"	s	language:JSON
+workbench.preferredDarkColorTheme	.vscode/settings.json	/^    "workbench.preferredDarkColorTheme": "Visual Studio Dark",$/;"	s	language:JSON
+workbench.preferredLightColorTheme	.vscode/settings.json	/^    "workbench.preferredLightColorTheme": "Visual Studio Dark",$/;"	s	language:JSON
+参考	pyqt.md	/^#### 参考$/;"	t	language:Markdown
+参考	ticketlock_spinlock.md	/^##### 参考$/;"	T	language:Markdown
